@@ -1,8 +1,4 @@
 /**
- * Vivek Kumar: Supporting code for PRMP course
- * NOT to be open sourced
- * @TODO: Counter wraps are currently ignored
- *
  * REQUIRED SOFTWARES / STEPS
  * a) sudo apt-get install libpfm4-dev
  * b) if unable to read msr (even with sudo) then use "msr" instead of "msr_safe" inside read_msr()
